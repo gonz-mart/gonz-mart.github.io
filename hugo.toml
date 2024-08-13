@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Gonzalo Martínez'
+title = 'GonzMart'
 theme = 'typo'
 
 [taxonomies]
@@ -14,16 +14,13 @@ googleAnalytics = "G-xxxxxxxxx"
 description = "Personal blog"
 
 # Appearance settings
-theme = 'auto'
+theme = 'dark'
 colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = '¡Welcome!'
-homeIntroContent = """
-I'm a PhD student at Carlos III University.
-In this small blog, I'm going to talk about the topics that interest me.
-If you want to know more about me, you can visit my [about page](/about).
+homeIntroTitle = ''
+homdeIntroContent = """
 """
 
 # Collection to display on home
